@@ -22,10 +22,11 @@ I am a **Computer Science Technology** student at **LaSalle College** in Montrea
 * **Recipe Search App (iOS):** A native Swift application optimized for various screen sizes with advanced filtering logic.
 * **StayHealthy (Android):** A Java-based fitness tracker emphasizing object-oriented principles and community engagement.
 * **Kakuro Game:** A complex logic puzzle project demonstrating team collaboration and advanced Git branch management.
+* **FoodPassport:** A native Swift culinary tracker leveraging CoreData, MapKit, and REST APIs to seamlessly organize restaurant wishlists and dining history.
 
 ---
 
-### The "Sous-Chef" Standard
+### My Experience
 Before entering software development, I spent 4 years as a **Sushi Sous-chef**. I bring the same "Mise en place" mentality to my code:
 * **Precision:** Zero discrepancies, high attention to detail.
 * **Efficiency:** Thriving in fast-paced, high-pressure environments.
@@ -35,12 +36,10 @@ I also spent 4+ years as a **Master Corporal** in the Army Cadets, where I learn
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/bunnita-yem](https://linkedin.com/in/bunnita-yem)
-* 🌐 **Portfolio:** [bunnitaa.github.io](https://bunnitaa.github.io)
-* 📧 **Email:** [susanyem50@gmail.com](mailto:bunn1ta@proton.me)
+* **LinkedIn:** [linkedin.com/in/bunnita-yem](https://linkedin.com/in/bunnita-yem)
+* **Portfolio:** [bunnitaa.github.io](https://bunnitaa.github.io)
+* **Email:** [susanyem50@gmail.com](mailto:bunn1ta@proton.me)
 
 ---
-
-"Building clean code with the same precision I used for a perfect Nigiri." 🍣💻
