@@ -1,4 +1,4 @@
-# Hi there, I'm Bunnita! 👋 
+# Hi, I'm Bunnita! 
 
 ### Passionate Software Developer | Mobile Specialist | Computer Science Student
 
@@ -36,7 +36,7 @@ I also spent 4+ years as a **Master Corporal** in the Army Cadets, where I learn
 
 ---
 
-### Connect with Me
+### Connect with Me!
 
 * **LinkedIn:** [linkedin.com/in/bunnita-yem](https://linkedin.com/in/bunnita-yem)
 * **Portfolio:** [bunnitaa.github.io](https://bunnitaa.github.io)
